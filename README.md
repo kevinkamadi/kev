@@ -9,6 +9,18 @@
 
 ## Key Vocab
 
+
+# Mapping Python Classes to a Database
+
+## Learning Goals
+
+- Create Python objects using SQL database records.
+- Create SQL database records using Python objects.
+
+***
+
+## Key Vocab
+
 - **Object-Relational Mapping (ORM)**: a technique used to convert database
 records into objects in an object-oriented language.
 
